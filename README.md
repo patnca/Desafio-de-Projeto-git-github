@@ -1,2 +1,2 @@
-# Desafios-de-Projetos
-Desafios Propostos no Bootcamp Take Blip / DIO
+# Desafio de Projeto Git / Github
+Repositório criado para o desafio proposto no Bootcamp Take Blip / DIO
